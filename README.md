@@ -117,7 +117,5 @@ npm i @nestjs/throttler
 ```
 ```js
 ```
-```js
-```
 
 ---
